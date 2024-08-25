@@ -4,4 +4,4 @@ version=v1.0
 versionCode=1
 author=The Lawnchair Team, Paphonb, Skittles, Mr Sluffy & Unofficial-Life
 description=Systemless Lawnchair Launcher Module (Unofficial)
-updateJson=
+updateJson=https://raw.githubusercontent.com/rayshabh/lawnchairMagiskModule/main/update.json
