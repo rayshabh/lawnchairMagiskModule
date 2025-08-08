@@ -1,0 +1,5 @@
+module.version=15.0
+module.url=https://github.com/rayshabh/lawnchairMagiskModule/releases/download/v15.0/lawnchairMagiskModule.zip
+module.name=Lawnchair Magisk Module
+module.description=Systemless install of Lawnchair
+
