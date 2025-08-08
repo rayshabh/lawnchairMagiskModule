@@ -1,7 +1,7 @@
 id=lawnchair
 name=Systemless Lawnchair Launcher (Unofficial)
-version=v1.0
-versionCode=1
+version=v15.0
+versionCode=15
 author=The Lawnchair Team, Paphonb, Skittles, Mr Sluffy & Unofficial-Life
 description=Systemless Lawnchair Launcher Module (Unofficial)
 updateJson=https://raw.githubusercontent.com/rayshabh/lawnchairMagiskModule/main/update.json
